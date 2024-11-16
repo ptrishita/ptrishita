@@ -56,7 +56,7 @@ I am deeply passionate about pursuing a career as a data scientist and exploring
 
 ## Connect with me:
 <p align="left">
-  <a href="trishitapaul5@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:trishitapaul5@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
 </a>
     <a href="https://www.linkedin.com/in/trishitapaul/" target="_blank" rel="noreferrer">
