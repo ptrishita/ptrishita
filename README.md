@@ -1,6 +1,6 @@
 ![Banner Image](https://cdn.pixabay.com/photo/2023/08/15/13/39/banner-8191974_1280.png)
 <div align="center">
-  <h1 align="center"> Hi there, I'm Trishita Paul! <img src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" alt="Waving Hand" width="40" height="40" />
+  <h1 align="center"> Hi there, I'm Trishita Paul! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt="Waving Hand" width="32" height="32" />
 </div>
 
 I am deeply passionate about pursuing a career as a data scientist and exploring its diverse domains. My enthusiasm extends to engaging in related research areas as well. I want to use my technical skills to address and solve real-world challenges.
