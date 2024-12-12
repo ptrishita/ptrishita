@@ -63,3 +63,6 @@ I am deeply passionate about pursuing a career as a data scientist and exploring
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
 </a>
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=ptrishita)
