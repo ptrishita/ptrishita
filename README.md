@@ -6,7 +6,7 @@
   <h1>Hi there, I'm Trishita Paul! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="32" height="32" /></h1>
 
   <!-- 3. The Typing SVG (Dynamic Subtitle) -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Aspiring%20Data%20Scientist;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Entry-Level%20Data%20Scientist;AI/ML%20Engineer%20(Fresher);Open%20Source%20Contributor" alt="Typing SVG" />
 </div>
 
 <!-- 4. Intro Image (Floated to the right) -->
