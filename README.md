@@ -14,10 +14,17 @@
 
 <!-- 5. Bio Paragraph -->
 <p>
-I am deeply passionate about pursuing a career in <b>Data Science</b> and exploring its diverse domains, including related research areas. My goal is to apply my technical skills to solve real-world challenges and generate meaningful insights from data. I am eager to contribute my analytical mindset and technical expertise to challenging data-driven roles.
-
-I actively build practical solutions involving <b>Machine Learning</b>, <b>Natural Language Processing</b>, and <b>Generative AI</b>. Committed to continuous learning, I enjoy experimenting with new technologies to enhance my problem-solving abilities. I look forward to collaborating on innovative projects and contributing to meaningful advancements in the field.
+I am passionate about <b>Data Science</b> and building data-driven solutions to solve real-world problems and generate meaningful insights. I enjoy experimenting with new technologies and continuously improving my analytical and problem-solving skills. I’m always open to collaborating on impactful and innovative projects.
 </p>
+
+<ul>
+  <li>🎓 <b>MSc in Mathematics</b>, Banaras Hindu University</li>
+  <li>📜 <b>PG Certificate in Data Science & AI</b>, IIT Roorkee</li>
+  <li>🤖 Focused on <b>Machine Learning, NLP, and Generative AI</b></li>
+  <li>💡 Building <b>end-to-end ML and AI-powered applications</b></li>
+  <li>🌱 Currently learning: <b>AWS</b></li>
+  <li>📍 Based in <b>Kolkata, India | Open to Relocation</b></li>
+</ul>
 
 <br clear="right"/>
 
