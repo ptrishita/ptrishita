@@ -30,6 +30,86 @@ I am passionate about <b>Data Science</b> and building data-driven solutions to 
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### 💼 CareerCraft – ATS Resume Analyzer
+AI-powered resume analyzer using Gemini  
+
+<ul align="left">
+  <li>ATS keyword matching</li>
+  <li>Resume vs JD comparison</li>
+  <li>GenAI-powered feedback</li>
+</ul>
+
+<p align="center">
+  🔗 <a href="https://github.com/ptrishita/CareerCraft-ATS-Optimized-Resume-Analyzer-using-Gemini-Model">GitHub</a> |
+  🌐 <a href="https://youtu.be/E0cgbWYTR9k">Live Demo</a>
+</p>
+
+<p align="center">
+  <code>Python</code> <code>Gemini API</code> <code>PyPDF2</code> <code>Streamlit</code>
+</p>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 📈 Employee Performance Prediction  
+ML web app for predicting employee productivity  
+
+<ul align="left">
+  <li>Regression models (Linear Regression, Random Forest, XGBoost)</li>
+  <li>Flask deployment</li>
+  <li>Business insights</li>
+</ul>
+
+<p align="center">
+  🔗 <a href="https://github.com/ptrishita/Machine-Learning-Approach-For-Employee-Performance-Prediction">GitHub</a> |
+  🌐 <a href="https://youtu.be/lbORl-9Q27w">Live Demo</a>
+</p>
+
+<p align="center">
+  <code>Python</code> <code>Scikit-learn</code> <code>XGBoost</code> <code>Flask</code>
+</p>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🧘 ZenFlow – Yoga Pose Classification
+Deep learning app using transfer learning  
+
+<ul align="left">
+  <li>Xception CNN model</li>
+  <li>Real-time webcam detection</li>
+  <li>Flask + OpenCV integration</li>
+</ul> 
+
+<p align="center">
+  🔗 <a href="https://github.com/ptrishita/ZenFlow-Enlightened-Yoga-Pose-Classification-Via-Transfer-Learning">GitHub</a> |
+  🌐 <a href="https://youtu.be/cQk1olFn-aU">Live Demo</a>
+</p>
+
+<p align="center">
+  <code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>Flask</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Technical Stack & Frameworks
 
 <div align="center">
