@@ -222,20 +222,20 @@ Deep learning app using transfer learning
       </a><br>
     </td>
     <td align="center" width="96">
-      <a href="https://www.credly.com/badges/e533475b-6b98-4fab-b899-0fc9d761290b">
-        <img src="https://images.credly.com/size/680x680/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png" width="150" alt="Google Business Intelligence Certificate"/>
-      </a><br>
-    </td>
-    <td align="center" width="96">
       <a href="https://www.credly.com/badges/fc6cf90a-f2e6-43a1-b2fb-b954f9476a5e">
         <img src="https://images.credly.com/images/344a1136-8a12-4cd7-983a-5f7a13a438f9/image.png" width="150" alt="Google AI Essentials"/>
       </a><br>
     </td>
     <td align="center" width="96">
       <a href="https://www.credly.com/badges/be002a75-cc5d-43a0-ba50-6b522f8edbb4">
-        <img src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob" width="150" alt="Google Prompting Essentials"/>
+        <img src="https://images.credly.com/images/c72688c2-f32f-4f34-862d-a13a7c5f6294/blob" width="150" alt="Google Prompting Essentials"/>
       </a><br>
     </td>
+    <td align="center" width="96">
+      <a href="https://www.credly.com/badges/09f99f45-ada5-4e99-92ad-b256ee165c50">
+        <img src="https://images.credly.com/size/680x680/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" width="150" alt="Google AI Professional Certificate"/>
+      </a><br>
+    </td>    
   </tr>
 
   <!-- Section 3: IBM -->
